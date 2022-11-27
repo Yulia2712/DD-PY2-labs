@@ -35,4 +35,4 @@
    а ещё предпочтительнее в виде Pull Request без указания reviewer.
 
 ## Пример
-[Пример](https://github.com/aeksei/PythonPY200_class_sample/blob/master/example.py) верно оформленного класса
+[Пример](https://github.com/hse-labs/DD-PY2-labs/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%201/example.py) верно оформленного класса
